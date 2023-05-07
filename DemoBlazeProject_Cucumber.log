@@ -1,0 +1,1133 @@
+2023-05-06 18:43:54,963 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:43:54,987 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:43:54,990 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:43:54,991 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 18:43:56,159 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 18:43:57,638 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:43:58,875 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:43:59,526 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:43:59,578 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:43:59,612 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:43:59,613 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:43:59,903 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:00,565 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:00,864 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:01,386 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:44:01,386 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:44:01,392 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:01,927 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:02,157 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product Title displayed
+2023-05-06 18:44:02,175 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:02,175 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:02,176 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:02,177 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:02,295 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:02,929 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:02,988 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:03,030 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:03,030 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:03,270 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:03,649 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:03,765 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:04,289 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:44:04,290 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:44:04,298 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:04,658 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Home Link
+2023-05-06 18:44:04,912 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 18:44:05,444 [INFO ] com.bac.stepDefinition.CartSteps [main] First Monitor Product is clicked
+2023-05-06 18:44:05,568 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:06,090 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:44:06,090 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:44:06,103 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:06,275 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:06,510 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product Title displayed
+2023-05-06 18:44:06,535 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:06,535 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:06,535 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:06,535 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:06,695 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:07,376 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:07,459 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:07,514 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:07,514 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:07,854 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:08,392 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:08,642 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:09,159 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:09,344 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:09,995 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Delete link
+2023-05-06 18:44:10,031 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product deleted successfully
+2023-05-06 18:44:10,057 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:10,057 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:10,057 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:10,057 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:10,176 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:10,856 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:10,928 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:10,984 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:10,984 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:11,195 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:11,808 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:12,035 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:12,552 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:12,996 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:13,072 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:44:13,703 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:44:13,763 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:44:13,768 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:44:13,775 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:13,855 [INFO ] com.bac.stepDefinition.CartSteps [main] user enters credit card value
+2023-05-06 18:44:13,904 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:44:13,908 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:44:13,919 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:13,976 [INFO ] com.bac.stepDefinition.CartSteps [main] credit card value removed
+2023-05-06 18:44:14,069 [INFO ] com.bac.stepDefinition.CartSteps [main] name value entered
+2023-05-06 18:44:14,118 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:44:14,125 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:44:14,135 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:14,225 [INFO ] com.bac.stepDefinition.CartSteps [main] credit card value entered
+2023-05-06 18:44:14,332 [INFO ] com.bac.stepDefinition.CartSteps [main] name value entered
+2023-05-06 18:44:14,391 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:44:14,464 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:44:14,488 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:14,488 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:14,495 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:14,496 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:14,645 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:15,304 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:15,377 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:15,434 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:15,435 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:15,741 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:16,340 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:16,480 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:17,002 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:17,278 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:17,344 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:44:17,955 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:44:18,021 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on close button
+2023-05-06 18:44:18,100 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form closed
+2023-05-06 18:44:18,378 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:44:19,006 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:44:19,063 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on close icon
+2023-05-06 18:44:19,125 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form closed
+2023-05-06 18:44:19,151 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:19,151 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:19,154 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:19,154 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:19,436 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:20,124 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:20,205 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:20,263 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:20,263 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:20,604 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:44:21,145 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:44:21,284 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:21,801 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:21,955 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:22,032 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:44:22,638 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:44:23,198 [INFO ] com.bac.stepDefinition.CartSteps [main] Filling out all details in Place order form
+2023-05-06 18:44:23,265 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:44:23,296 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:23,296 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:23,296 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:23,296 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:24,469 [ERROR] com.bac.stepDefinition.HomeAfterLoginSteps [main] org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="nav-link" href="#" id="login2" data-toggle="modal" data-target="#logInModal" style="display: none;">...</a> is not clickable at point (28, 20). Other element would receive the click: <img width="50" height="50" style="margin-right:10px" src="bm.png">
+  (Session info: chrome=112.0.5615.139)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.139, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dbfe2534baeb8c919adba03675563f48
+2023-05-06 18:44:25,075 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:44:25,075 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:44:25,075 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:44:25,075 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:44:25,314 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:44:26,005 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:44:26,073 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:44:26,135 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:44:26,135 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:44:26,565 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 18:44:26,989 [INFO ] com.bac.stepDefinition.CartSteps [main] First Monitor Product is clicked
+2023-05-06 18:44:27,175 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:44:27,701 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:44:28,054 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:44:28,136 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:44:28,755 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:44:29,262 [INFO ] com.bac.stepDefinition.CartSteps [main] Filling out all details in Place order form
+2023-05-06 18:44:29,334 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:44:29,423 [INFO ] com.bac.stepDefinition.CartSteps [main] Details Displayed in Thank you for your purchase screen is: Id: 8022955
+Amount: 400 USD
+Card Number: 12345;
+Name: Backya;
+Date: 6/4/2023
+2023-05-06 18:44:29,457 [INFO ] com.bac.stepDefinition.CartSteps [main] Ok button is Displayed in Thank you for your purchase screen
+2023-05-06 18:44:29,521 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Ok button in Thank you for your Purchase screen
+2023-05-06 18:47:28,759 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:28,761 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:28,762 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:28,763 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 18:47:29,019 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 18:47:30,172 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:31,196 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:31,867 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:31,926 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:32,002 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:32,002 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:32,278 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:32,954 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:33,224 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:33,754 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:47:33,754 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:47:33,765 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:34,098 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:34,463 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product Title displayed
+2023-05-06 18:47:34,485 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:34,485 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:34,486 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:34,486 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:34,636 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:35,250 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:35,300 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:35,350 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:35,358 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:35,658 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:36,150 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:36,319 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:36,850 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:47:36,850 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:47:36,862 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:37,161 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Home Link
+2023-05-06 18:47:37,402 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 18:47:37,914 [INFO ] com.bac.stepDefinition.CartSteps [main] First Monitor Product is clicked
+2023-05-06 18:47:38,133 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:38,665 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:47:38,665 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:47:38,676 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:38,843 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:39,260 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product Title displayed
+2023-05-06 18:47:39,296 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:39,297 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:39,297 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:39,297 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:39,538 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:40,190 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:40,272 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:40,363 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:40,363 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:40,642 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:41,210 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:41,407 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:41,932 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:42,227 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:42,621 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Delete link
+2023-05-06 18:47:42,662 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product deleted successfully
+2023-05-06 18:47:42,700 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:42,700 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:42,700 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:42,700 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:42,962 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:43,616 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:43,672 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:43,750 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:43,750 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:43,930 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:44,650 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:45,018 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:45,541 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:45,952 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:46,020 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:47:46,616 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:47:46,670 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:47:46,682 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:47:46,682 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:46,770 [INFO ] com.bac.stepDefinition.CartSteps [main] user enters credit card value
+2023-05-06 18:47:46,820 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:47:46,820 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:47:46,833 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:46,876 [INFO ] com.bac.stepDefinition.CartSteps [main] credit card value removed
+2023-05-06 18:47:46,951 [INFO ] com.bac.stepDefinition.CartSteps [main] name value entered
+2023-05-06 18:47:47,003 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:47:47,011 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Please fill out Name and Creditcard.
+2023-05-06 18:47:47,017 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:47,087 [INFO ] com.bac.stepDefinition.CartSteps [main] credit card value entered
+2023-05-06 18:47:47,147 [INFO ] com.bac.stepDefinition.CartSteps [main] name value entered
+2023-05-06 18:47:47,197 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Purchase button
+2023-05-06 18:47:47,261 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:47:47,288 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:47,288 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:47,290 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:47,290 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:47,440 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:48,090 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:48,161 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:48,233 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:48,234 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:48,550 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:48,995 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:49,190 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:49,716 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:49,902 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:49,970 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:47:50,577 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:47:50,640 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on close button
+2023-05-06 18:47:50,705 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form closed
+2023-05-06 18:47:51,020 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:47:51,620 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:47:51,669 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on close icon
+2023-05-06 18:47:51,732 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form closed
+2023-05-06 18:47:51,746 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:51,746 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:51,747 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:51,750 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:52,017 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:52,655 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:52,720 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:52,797 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:52,797 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:53,129 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:53,914 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:54,259 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:54,775 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:55,564 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:47:55,619 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:47:56,200 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:47:56,691 [INFO ] com.bac.stepDefinition.CartSteps [main] Filling out all details in Place order form
+2023-05-06 18:47:56,743 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:47:56,770 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:47:56,770 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:47:56,770 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:47:56,770 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:47:56,951 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:47:57,595 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:47:57,660 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:47:57,742 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:47:57,743 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:47:58,052 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 18:47:58,696 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 18:47:58,942 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:47:59,460 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:47:59,465 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:47:59,474 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:47:59,982 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Home Link
+2023-05-06 18:48:00,227 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 18:48:00,807 [INFO ] com.bac.stepDefinition.CartSteps [main] First Monitor Product is clicked
+2023-05-06 18:48:01,110 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:48:01,630 [INFO ] com.bac.stepDefinition.CartSteps [main] Alert text: Product added
+2023-05-06 18:48:01,632 [INFO ] com.bac.stepDefinition.CartSteps [main] Switching to Alert window
+2023-05-06 18:48:01,641 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:48:01,873 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:48:02,531 [INFO ] com.bac.stepDefinition.CartSteps [main] Added Product Title displayed
+2023-05-06 18:48:02,588 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:48:03,197 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:48:03,709 [INFO ] com.bac.stepDefinition.CartSteps [main] Filling out all details in Place order form
+2023-05-06 18:48:03,773 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:48:03,799 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:48:03,799 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:48:03,800 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:48:03,800 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:48:04,159 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 18:48:04,809 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 18:48:04,877 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 18:48:04,953 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 18:48:04,957 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 18:48:05,180 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 18:48:06,240 [INFO ] com.bac.stepDefinition.CartSteps [main] First Monitor Product is clicked
+2023-05-06 18:48:06,440 [INFO ] com.bac.stepDefinition.CartSteps [main] Add to cart button is clicked
+2023-05-06 18:48:06,972 [INFO ] com.bac.stepDefinition.CartSteps [main] Accepting the alert by clicking Ok
+2023-05-06 18:48:07,365 [INFO ] com.bac.stepDefinition.CartSteps [main] Clicked on Cart Link
+2023-05-06 18:48:07,470 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Plcae Order button
+2023-05-06 18:48:08,093 [INFO ] com.bac.stepDefinition.CartSteps [main] Place Order form displayed
+2023-05-06 18:48:08,640 [INFO ] com.bac.stepDefinition.CartSteps [main] Filling out all details in Place order form
+2023-05-06 18:48:08,710 [INFO ] com.bac.stepDefinition.CartSteps [main] Thank you for your Purchase message window is displayed
+2023-05-06 18:48:08,790 [INFO ] com.bac.stepDefinition.CartSteps [main] Details Displayed in Thank you for your purchase screen is: Id: 210918
+Amount: 400 USD
+Card Number: 12345;
+Name: Backya;
+Date: 6/4/2023
+2023-05-06 18:48:08,820 [INFO ] com.bac.stepDefinition.CartSteps [main] Ok button is Displayed in Thank you for your purchase screen
+2023-05-06 18:48:08,873 [INFO ] com.bac.stepDefinition.CartSteps [main] user clicks on Ok button in Thank you for your Purchase screen
+2023-05-06 18:54:51,952 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:51,955 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:51,957 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:51,959 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 18:54:52,255 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 18:54:53,442 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:54,422 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:54:55,102 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:54:55,128 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Pause button displayed.Verification of video playing is successful
+2023-05-06 18:54:55,141 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:55,141 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:55,142 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:55,142 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:55,369 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:54:55,988 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:54:56,031 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video pause button
+2023-05-06 18:54:56,059 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Pause verification success
+2023-05-06 18:54:56,070 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:56,070 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:56,070 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:56,071 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:56,302 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:54:56,914 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:54:56,962 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video pause button
+2023-05-06 18:54:56,999 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video unpause or play button
+2023-05-06 18:54:57,024 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video UnPause verification success
+2023-05-06 18:54:57,032 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:57,032 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:57,032 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:57,033 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:57,273 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:54:57,901 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:54:57,991 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-06 18:54:58,033 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Full Screen verification success
+2023-05-06 18:54:58,041 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:58,041 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:58,043 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:58,043 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:58,382 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:54:59,003 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:54:59,088 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-06 18:54:59,175 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on non full screen button
+2023-05-06 18:54:59,229 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Non Full Screen verification success
+2023-05-06 18:54:59,254 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:54:59,255 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:54:59,256 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:54:59,257 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:54:59,517 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:55:00,130 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-06 18:55:00,207 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Close button in AboutUs Page
+2023-05-06 18:55:00,241 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] AboutUs Page is closed successfully
+2023-05-06 18:55:00,261 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 18:55:00,261 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 18:55:00,262 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 18:55:00,264 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 18:55:00,505 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-06 18:55:01,153 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Close button in AboutUs Page
+2023-05-06 18:55:01,186 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] AboutUs Page is closed successfully
+2023-05-06 19:02:21,386 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:02:21,388 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:02:21,389 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:02:21,390 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:02:21,615 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:02:22,655 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:02:23,642 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-06 19:02:23,877 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-06 19:02:23,927 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-06 19:02:24,023 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-06 19:02:24,084 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-06 19:02:24,089 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-06 19:02:24,092 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:02:24,093 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-06 19:02:24,094 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:02:24,131 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:02:24,131 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:02:24,132 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:02:24,137 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:02:24,387 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-06 19:02:24,623 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-06 19:02:24,684 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-06 19:02:24,748 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-06 19:02:24,784 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-06 19:02:24,787 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-06 19:02:24,789 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:02:24,789 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-06 19:02:24,790 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:02:24,823 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:02:24,823 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:02:24,824 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:02:24,824 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:02:25,058 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-06 19:02:25,325 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-06 19:02:25,379 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-06 19:02:25,440 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-06 19:02:25,473 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-06 19:02:25,474 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-06 19:02:25,476 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:02:25,476 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-06 19:02:25,477 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:02:25,494 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:02:25,494 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:02:25,495 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:02:25,495 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:02:25,763 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-06 19:02:26,658 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Close button in signup Page
+2023-05-06 19:02:26,695 [INFO ] com.bac.stepDefinition.ContactSteps [main] Contact page close successful
+2023-05-06 19:06:30,775 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:06:30,776 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:06:30,778 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:06:30,779 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:06:30,992 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:06:32,215 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:06:33,194 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:06:33,880 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:06:33,941 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:06:34,005 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:06:34,005 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:06:34,025 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 19:06:34,025 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 19:06:34,046 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 19:06:34,071 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 19:06:34,104 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 19:06:34,104 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 19:06:34,139 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 19:06:34,150 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 19:06:34,167 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:06:34,167 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:06:34,168 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:06:34,169 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:06:34,424 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:06:35,041 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:06:35,111 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:06:35,174 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:06:35,176 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:06:35,195 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:06:35,196 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:08:48,914 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:08:48,916 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:08:48,917 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:08:48,918 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:08:49,170 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:08:50,369 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:08:51,142 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:08:51,848 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:08:51,922 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:08:51,996 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:08:51,996 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:08:52,015 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 19:08:52,015 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 19:08:52,039 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 19:08:52,070 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 19:08:52,105 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 19:08:52,105 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 19:08:52,146 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 19:08:52,157 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 19:08:52,185 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:08:52,186 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:08:52,186 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:08:52,187 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:08:52,489 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:08:53,137 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:08:53,201 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:08:53,247 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:08:53,247 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:08:53,262 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:08:53,263 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:08:53,517 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button with Stale Element exception handling
+2023-05-06 19:08:53,601 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 9
+2023-05-06 19:08:53,601 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is unsuccessful
+2023-05-06 19:08:53,619 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:10:41,096 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:41,098 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:41,099 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:41,100 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:10:41,316 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:10:42,517 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:42,524 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: data:,
+2023-05-06 19:10:43,010 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:43,015 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:10:43,197 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:10:43,199 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:10:43,200 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:10:43,201 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:10:43,233 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:43,234 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:43,234 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:43,234 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:43,243 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:43,473 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:43,650 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters password: password
+2023-05-06 19:10:43,650 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:10:43,694 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:10:43,696 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:10:43,697 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:10:43,698 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:10:43,714 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:43,715 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:43,715 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:43,716 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:43,720 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:43,881 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:44,121 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters username: amuthu
+2023-05-06 19:10:44,122 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:10:44,164 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:10:44,166 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:10:44,166 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:10:44,167 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:10:44,187 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:44,187 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:44,187 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:44,188 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:44,197 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:44,401 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:44,404 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid username: amuthu
+2023-05-06 19:10:44,655 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong password: a123
+2023-05-06 19:10:44,706 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:10:45,267 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:10:45,271 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:10:45,271 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Wrong password.
+2023-05-06 19:10:45,275 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:10:45,295 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:45,295 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:45,296 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:45,296 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:45,302 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:45,491 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:45,498 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong username: amuthuSmile
+2023-05-06 19:10:45,731 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid password: testpass
+2023-05-06 19:10:45,783 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:10:46,340 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:10:46,345 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:10:46,345 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully User does not exist.
+2023-05-06 19:10:46,348 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:10:46,366 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:46,367 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:46,367 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:46,368 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:46,381 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:46,527 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:46,530 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login username: amuthu
+2023-05-06 19:10:46,746 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login password: testpass
+2023-05-06 19:10:47,095 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close button in Login Page
+2023-05-06 19:10:47,195 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:10:47,282 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:10:47,297 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:10:47,297 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:10:47,298 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:10:47,299 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:10:47,304 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:10:47,553 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:10:48,419 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close Icon in Login Page
+2023-05-06 19:10:48,470 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:10:48,502 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:12:18,160 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:18,162 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:18,163 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:18,163 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:12:18,358 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:12:19,554 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:19,565 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: data:,
+2023-05-06 19:12:20,081 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:20,087 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login username: backya
+2023-05-06 19:12:20,316 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login password: password
+2023-05-06 19:12:20,389 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:21,016 [INFO ] com.bac.stepDefinition.LogInSteps [main] Welcome Link is Present
+2023-05-06 19:12:21,033 [INFO ] com.bac.utilities.CommonUtils [main] Welcome Link Text Validation Successful. Actual Link Text : Welcome backya  Expected: Welcome backya
+2023-05-06 19:12:21,214 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:21,214 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:21,214 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:21,215 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:21,222 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/index.html
+2023-05-06 19:12:21,336 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:21,342 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:21,544 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:12:21,546 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:12:21,547 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:12:21,548 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:12:21,563 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:21,563 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:21,564 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:21,565 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:21,571 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:21,733 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:21,931 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters password: password
+2023-05-06 19:12:21,931 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:21,967 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:12:21,969 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:12:21,969 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:12:21,970 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:12:21,987 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:21,987 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:21,988 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:21,989 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:21,995 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:22,141 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:22,320 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters username: amuthu
+2023-05-06 19:12:22,321 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:22,359 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:12:22,360 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:12:22,360 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:12:22,361 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:12:22,377 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:22,378 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:22,378 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:22,379 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:22,383 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:22,519 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:22,522 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid username: amuthu
+2023-05-06 19:12:22,819 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong password: a123
+2023-05-06 19:12:22,881 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:23,439 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:12:23,442 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:12:23,442 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Wrong password.
+2023-05-06 19:12:23,443 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:12:23,457 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:23,457 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:23,458 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:23,458 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:23,465 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:23,618 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:23,620 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong username: amuthuSmile
+2023-05-06 19:12:23,813 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid password: testpass
+2023-05-06 19:12:23,863 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:12:24,419 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:12:24,424 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:12:24,424 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully User does not exist.
+2023-05-06 19:12:24,426 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:12:24,444 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:24,445 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:24,448 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:24,449 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:24,453 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:24,639 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:24,644 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login username: amuthu
+2023-05-06 19:12:24,841 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login password: testpass
+2023-05-06 19:12:25,181 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close button in Login Page
+2023-05-06 19:12:25,225 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:12:25,269 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:12:25,292 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:12:25,292 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:12:25,293 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:12:25,294 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:12:25,299 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:12:25,489 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:12:26,347 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close Icon in Login Page
+2023-05-06 19:12:26,393 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:12:26,417 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:14:26,258 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:26,260 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:26,262 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:26,262 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:14:26,493 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:14:27,689 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:27,698 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: data:,
+2023-05-06 19:14:28,543 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:28,549 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login username: backya
+2023-05-06 19:14:28,745 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login password: password
+2023-05-06 19:14:28,803 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:29,429 [INFO ] com.bac.stepDefinition.LogInSteps [main] Welcome Link is Present
+2023-05-06 19:14:29,451 [INFO ] com.bac.utilities.CommonUtils [main] Welcome Link Text Validation Successful. Actual Link Text : Welcome backya  Expected: Welcome backya
+2023-05-06 19:14:29,639 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:29,639 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:29,640 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:29,641 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:29,645 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/index.html
+2023-05-06 19:14:29,767 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:29,770 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:29,967 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:14:29,972 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:14:29,972 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:14:29,974 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:14:29,999 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:29,999 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:30,000 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:30,001 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:30,013 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:30,172 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:30,377 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters password: password
+2023-05-06 19:14:30,379 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:30,418 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:14:30,420 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:14:30,421 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:14:30,425 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:14:30,445 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:30,446 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:30,446 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:30,447 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:30,453 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:30,590 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:30,792 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters username: amuthu
+2023-05-06 19:14:30,792 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:30,843 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:14:30,845 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:14:30,845 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:14:30,846 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:14:30,863 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:30,865 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:30,865 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:30,867 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:30,876 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:31,016 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:31,019 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid username: amuthu
+2023-05-06 19:14:31,259 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong password: a123
+2023-05-06 19:14:31,314 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:31,876 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:14:31,881 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:14:31,882 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Wrong password.
+2023-05-06 19:14:31,884 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:14:31,902 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:31,903 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:31,903 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:31,904 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:31,910 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:32,047 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:32,050 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters wrong username: amuthuSmile
+2023-05-06 19:14:32,247 [INFO ] com.bac.stepDefinition.LogInSteps [main] User enters valid password: testpass
+2023-05-06 19:14:32,293 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login button
+2023-05-06 19:14:32,842 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:14:32,847 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:14:32,847 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully User does not exist.
+2023-05-06 19:14:32,849 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:14:32,866 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:32,866 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:32,867 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:32,867 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:32,871 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:33,044 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:33,046 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login username: amuthu
+2023-05-06 19:14:33,340 [INFO ] com.bac.stepDefinition.LogInSteps [main] user enters login password: testpass
+2023-05-06 19:14:33,713 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close button in Login Page
+2023-05-06 19:14:33,764 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:14:33,799 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:14:33,814 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:14:33,815 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:14:33,816 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:14:33,817 [INFO ] com.bac.stepDefinition.LogInSteps [main] Launching DemoBlaze URL
+2023-05-06 19:14:33,823 [INFO ] com.bac.stepDefinition.LogInSteps [main] Current url: https://www.demoblaze.com/
+2023-05-06 19:14:33,960 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Login Link
+2023-05-06 19:14:34,821 [INFO ] com.bac.stepDefinition.LogInSteps [main] user clicks on Close Icon in Login Page
+2023-05-06 19:14:34,877 [INFO ] com.bac.stepDefinition.LogInSteps [main] Verifying close action
+2023-05-06 19:14:34,911 [INFO ] com.bac.stepDefinition.LogInSteps [main] Login Page closed successfully
+2023-05-06 19:15:39,282 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:15:39,284 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:15:39,286 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:15:39,287 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:15:39,540 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:15:40,665 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:15:41,656 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:15:42,374 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:15:42,430 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:15:42,498 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:15:42,498 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:15:42,721 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 19:15:42,903 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Laptop Product is displayed
+2023-05-06 19:15:42,926 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:15:42,926 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:15:42,927 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:15:42,927 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:15:43,042 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:15:43,677 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:15:43,731 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:15:43,797 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:15:43,797 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:15:44,029 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Monitors category option is clicked
+2023-05-06 19:15:44,246 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Monitor Product is displayed
+2023-05-06 19:15:44,258 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:15:44,258 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:15:44,259 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:15:44,259 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:15:44,400 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:15:45,020 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:15:45,070 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:15:45,128 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:15:45,128 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:15:45,347 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Phones category option is clicked
+2023-05-06 19:15:45,453 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Phone Product is displayed
+2023-05-06 19:15:45,918 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:15:45,919 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:15:45,919 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:15:45,921 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:15:46,077 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:15:46,726 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:15:46,785 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:15:46,853 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:15:46,853 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:15:47,090 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Laptops category option is clicked
+2023-05-06 19:15:47,698 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] First Product is clicked
+2023-05-06 19:15:48,051 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Product Description is displayed
+2023-05-06 19:15:48,087 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Product Image is displayed
+2023-05-06 19:15:48,126 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Product name is displayed
+2023-05-06 19:15:48,157 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Product price is displayed
+2023-05-06 19:15:48,189 [INFO ] com.bac.stepDefinition.ProductVerificationSteps [main] Add to Cart button is displayed
+2023-05-06 19:19:13,882 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:13,883 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:13,884 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:13,885 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:19:14,185 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:19:15,240 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:15,913 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:15,921 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-06 19:19:16,125 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-06 19:19:16,562 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:17,128 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:17,132 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:17,132 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated Failed This user already exist.
+2023-05-06 19:19:17,134 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:17,161 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:17,161 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:17,161 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:17,162 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:17,364 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:17,368 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: backya
+2023-05-06 19:19:17,607 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: password
+2023-05-06 19:19:17,949 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:18,498 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:18,501 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:18,502 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated Failed This user already exist.
+2023-05-06 19:19:18,503 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:18,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:18,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:18,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:18,526 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:18,787 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:18,791 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-06 19:19:18,971 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:19,018 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:19,022 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:19,022 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:19:19,023 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:19,042 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:19,043 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:19,043 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:19,043 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:19,220 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:19,223 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: admin
+2023-05-06 19:19:19,407 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:19,466 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:19,470 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:19,471 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:19:19,473 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:19,492 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:19,492 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:19,493 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:19,493 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:19,628 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:19,631 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:19,864 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:19,870 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:19,870 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Please fill out Username and Password.
+2023-05-06 19:19:19,873 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:19,891 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:19,892 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:19,892 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:19,893 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:20,139 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:20,142 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters existing username: amuthu
+2023-05-06 19:19:20,385 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters existing password: testpass
+2023-05-06 19:19:20,447 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User clicks on signup button
+2023-05-06 19:19:21,005 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Alert is Present
+2023-05-06 19:19:21,011 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-06 19:19:21,011 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully This user already exist.
+2023-05-06 19:19:21,014 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-06 19:19:21,041 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:21,042 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:21,043 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:21,044 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:21,239 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:21,244 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-06 19:19:21,486 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-06 19:19:22,242 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close button in signup Page
+2023-05-06 19:19:22,295 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-06 19:19:22,372 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-06 19:19:22,395 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:19:22,395 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:19:22,396 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:19:22,397 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:19:22,589 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-06 19:19:23,491 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close icon in signup Page
+2023-05-06 19:19:23,493 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-06 19:19:23,531 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-06 19:23:10,463 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:23:10,465 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:23:10,466 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:23:10,467 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:23:10,700 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:23:11,904 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:23:12,501 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:23:13,184 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:23:13,235 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:23:13,305 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:23:13,307 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:23:13,324 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 19:23:13,324 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 19:23:13,345 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 19:23:13,372 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 19:23:13,404 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 19:23:13,404 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 19:23:13,437 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 19:23:13,451 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 19:23:13,475 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:23:13,475 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:23:13,476 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:23:13,476 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:23:13,667 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:23:14,315 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:23:14,373 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:23:14,438 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:23:14,438 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:23:14,457 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:23:14,457 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:23:14,764 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button with Stale Element exception handling
+2023-05-06 19:23:14,842 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 9
+2023-05-06 19:23:14,842 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is unsuccessful
+2023-05-06 19:23:14,858 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:26:42,005 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:26:42,006 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:26:42,007 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:26:42,008 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:26:42,234 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:26:43,466 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:26:44,594 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:26:45,299 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:26:45,345 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:26:45,408 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:26:45,408 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:26:45,426 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 19:26:45,426 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 19:26:45,449 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 19:26:45,474 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 19:26:45,510 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 19:26:45,511 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 19:26:45,549 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 19:26:45,560 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 19:26:45,584 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:26:45,584 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:26:45,584 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:26:45,585 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:26:45,940 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:26:46,556 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:26:46,617 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:26:46,683 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:26:46,684 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:26:46,702 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:26:46,702 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:26:47,216 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:26:47,235 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 9
+2023-05-06 19:26:47,235 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is unsuccessful
+2023-05-06 19:26:47,253 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:30:58,980 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:30:58,982 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:30:58,984 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:30:58,984 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:30:59,259 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:31:00,377 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:31:01,580 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:31:02,229 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:31:02,278 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:31:02,342 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:31:02,343 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:31:02,364 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:31:02,364 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:31:02,892 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:31:02,904 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 9
+2023-05-06 19:31:02,904 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is unsuccessful
+2023-05-06 19:31:02,922 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:37:23,925 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:37:23,927 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:37:23,929 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:37:23,929 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:37:24,172 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:37:25,449 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:37:26,229 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:37:26,896 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:37:26,950 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:37:27,018 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:37:27,019 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:37:27,044 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:37:27,044 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:37:27,552 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:38:28,367 [ERROR] com.bac.stepDefinition.HomeAfterLoginSteps [main] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Apple monitor 24')]' (tried for 30 second(s) with 500 milliseconds interval)
+2023-05-06 19:39:46,327 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:39:46,329 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:39:46,330 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:39:46,330 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:39:46,544 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:39:47,698 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:39:48,858 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:39:49,550 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:39:49,603 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:39:49,662 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:39:49,662 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:39:49,682 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:39:49,682 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:39:50,235 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:39:50,411 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 6
+2023-05-06 19:39:50,411 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is success
+2023-05-06 19:39:50,427 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:43:24,449 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:43:24,450 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:43:24,452 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:43:24,452 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:43:24,677 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:43:25,780 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:43:26,333 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:43:26,977 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:43:27,021 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:43:27,088 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:43:27,088 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:43:27,111 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:43:27,111 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:43:27,615 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:43:27,797 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 6
+2023-05-06 19:43:27,798 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is success
+2023-05-06 19:43:28,096 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 19:44:30,862 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:44:30,864 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:44:30,877 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:44:30,878 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 19:44:31,789 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 19:44:32,814 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:44:33,334 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:44:34,004 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:44:34,062 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:44:34,125 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:44:34,125 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:44:34,143 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 19:44:34,143 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 19:44:34,160 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 19:44:34,179 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 19:44:34,203 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 19:44:34,203 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 19:44:34,238 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 19:44:34,251 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 19:44:34,269 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 19:44:34,269 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 19:44:34,270 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 19:44:34,270 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 19:44:34,807 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 19:44:35,441 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 19:44:35,494 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 19:44:35,544 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 19:44:35,544 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 19:44:35,562 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 19:44:35,563 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 19:44:36,034 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 19:44:36,260 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 6
+2023-05-06 19:44:36,261 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is success
+2023-05-06 19:44:36,534 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button
+2023-05-06 21:59:56,895 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 21:59:56,897 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 21:59:56,898 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 21:59:56,899 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-06 21:59:57,787 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-06 21:59:59,529 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 22:00:00,531 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 22:00:01,222 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 22:00:01,296 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 22:00:01,383 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 22:00:01,383 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 22:00:01,408 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] No of Category Options: 3
+2023-05-06 22:00:01,409 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category Options
+2023-05-06 22:00:01,433 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Phones
+2023-05-06 22:00:01,465 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Laptops
+2023-05-06 22:00:01,506 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Monitors
+2023-05-06 22:00:01,507 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Category options verification successful 
+2023-05-06 22:00:01,551 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Next button is displayed
+2023-05-06 22:00:01,571 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Previous button is displayed
+2023-05-06 22:00:01,588 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-06 22:00:01,589 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-06 22:00:01,589 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-06 22:00:01,590 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-06 22:00:01,927 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login Link in Home Page
+2023-05-06 22:00:02,535 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters username
+2023-05-06 22:00:02,575 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User enters password
+2023-05-06 22:00:02,624 [INFO ] com.bac.pageObjectOR.LoginPageOR [main] User clicks on Login button in Login Page
+2023-05-06 22:00:02,624 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user successfully logged in
+2023-05-06 22:00:02,636 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on home page: 9
+2023-05-06 22:00:02,636 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in first page is success
+2023-05-06 22:00:03,057 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on next button
+2023-05-06 22:00:03,218 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Number of elements displayed on second page: 6
+2023-05-06 22:00:03,218 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] Verification of number of products displayed in second page is success
+2023-05-06 22:00:03,501 [INFO ] com.bac.stepDefinition.HomeAfterLoginSteps [main] user clicks on previous button

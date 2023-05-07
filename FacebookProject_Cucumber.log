@@ -1,0 +1,319 @@
+2023-05-01 15:07:57,127 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 15:07:57,137 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 15:07:57,139 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 15:07:57,140 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 15:07:58,214 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 15:07:59,345 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 15:08:00,819 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 15:08:00,825 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-01 15:08:01,018 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-01 15:08:01,564 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close button in signup Page
+2023-05-01 15:08:01,598 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 15:08:01,642 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 15:08:01,650 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 15:08:01,650 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 15:08:01,651 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 15:08:01,651 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 15:08:01,904 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 15:09:02,554 [ERROR] com.bac.stepDefinition.SignUpSteps [main] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='sign-username']//preceding::span[10]' (tried for 30 second(s) with 500 milliseconds interval)
+2023-05-01 16:04:07,166 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 16:04:07,170 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 16:04:07,187 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 16:04:07,190 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 16:04:07,662 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 16:04:09,011 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 16:04:10,877 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 16:04:10,886 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-01 16:04:11,258 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-01 16:04:11,908 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close button in signup Page
+2023-05-01 16:04:11,969 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 16:04:12,036 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 16:04:12,047 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 16:04:12,049 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 16:04:12,050 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 16:04:12,051 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 16:04:12,345 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 16:04:13,196 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close icon in signup Page
+2023-05-01 16:04:13,197 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 16:04:13,223 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 16:07:50,571 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 16:07:50,574 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 16:07:50,575 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 16:07:50,576 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 16:07:50,891 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 16:07:52,097 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 16:07:52,706 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 16:07:52,713 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-01 16:07:52,920 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-01 16:07:53,579 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close button in signup Page
+2023-05-01 16:07:53,636 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 16:07:53,676 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 16:07:53,689 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 16:07:53,690 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 16:07:53,690 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 16:07:53,690 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 16:07:53,889 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 16:08:54,572 [ERROR] com.bac.stepDefinition.SignUpSteps [main] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='sign-username']//preceding::span[10]' (tried for 30 second(s) with 500 milliseconds interval)
+2023-05-01 17:29:53,078 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 17:29:53,080 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 17:29:53,081 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 17:29:53,082 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 17:29:54,157 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 17:29:55,444 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 17:29:58,129 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 17:29:58,139 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters username: amuthu
+2023-05-01 17:29:58,340 [INFO ] com.bac.stepDefinition.SignUpSteps [main] User enters password: testpass
+2023-05-01 17:29:59,064 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close button in signup Page
+2023-05-01 17:29:59,124 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 17:29:59,172 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 17:29:59,184 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 17:29:59,184 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 17:29:59,186 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 17:29:59,188 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 17:29:59,393 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on SignUp Link
+2023-05-01 17:30:00,250 [INFO ] com.bac.stepDefinition.SignUpSteps [main] user clicks on Close icon in signup Page
+2023-05-01 17:30:00,252 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Verifying close action
+2023-05-01 17:30:00,283 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Signup Page closed successfully
+2023-05-01 17:44:17,008 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 17:44:17,011 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 17:44:17,012 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 17:44:17,013 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 17:44:17,274 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 17:44:18,468 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:11:43,645 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:11:43,648 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:11:43,649 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:11:43,650 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 18:11:43,922 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 18:11:45,432 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:11:46,422 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:12:06,506 [ERROR] com.bac.stepDefinition.AboutUsSteps [main] org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on WINDOWS (4ce0a69eae1c7b723f33960e1055013b)] -> xpath: //h5[contains(text(),'About us')]//following::span[3]] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60577}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ce0a69eae1c7b723f33960e1055013b
+2023-05-01 18:14:11,737 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:14:11,740 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:14:11,741 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:14:11,742 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 18:14:12,036 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 18:14:13,174 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:14:13,719 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:14:14,346 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 18:14:14,377 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Pause button displayed.Verification of video playing is successful
+2023-05-01 18:27:55,897 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:27:55,899 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:27:55,901 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:27:55,902 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 18:27:56,180 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 18:27:57,500 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:27:59,229 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:27:59,881 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 18:27:59,908 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Pause button displayed.Verification of video playing is successful
+2023-05-01 18:27:59,922 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:27:59,922 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:27:59,922 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:27:59,923 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:28:00,210 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:28:00,827 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 18:28:00,890 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Close button in AboutUs Page
+2023-05-01 18:28:00,925 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] AboutUs Page is closed successfully
+2023-05-01 18:28:00,933 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:28:00,934 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:28:00,935 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:28:00,937 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:28:01,198 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:28:01,818 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Close button in AboutUs Page
+2023-05-01 18:28:01,844 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] AboutUs Page is closed successfully
+2023-05-01 18:47:06,842 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:47:06,845 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:47:06,846 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:47:06,847 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 18:47:08,036 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 18:47:09,030 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:47:10,025 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:47:10,671 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 18:47:10,727 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video pause button
+2023-05-01 18:47:10,754 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Pause verification success
+2023-05-01 18:47:10,770 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 18:47:10,771 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 18:47:10,771 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 18:47:10,772 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 18:47:11,053 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 18:47:11,711 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 18:47:11,765 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video pause button
+2023-05-01 18:47:11,798 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on video unpause or play button
+2023-05-01 18:47:11,820 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video UnPause verification success
+2023-05-01 19:10:14,466 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 19:10:14,469 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 19:10:14,470 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 19:10:14,471 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 19:10:14,750 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 19:10:16,034 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 19:10:16,724 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 19:10:17,345 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 19:10:17,429 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-01 19:10:17,512 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Full Screen verification success
+2023-05-01 19:10:17,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 19:10:17,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 19:10:17,525 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 19:10:17,526 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 19:10:17,756 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 19:10:18,360 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 19:10:18,456 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-01 19:10:18,551 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on non full screen button
+2023-05-01 19:10:18,575 [ERROR] com.bac.stepDefinition.AboutUsSteps [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@title='Fullscreen']"}
+  (Session info: chrome=112.0.5615.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63648}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 946b2a9d139c2acd8f2377e2732488ee
+*** Element info: {Using=xpath, value=//button[@title='Fullscreen']}
+2023-05-01 19:13:37,477 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 19:13:37,479 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 19:13:37,482 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 19:13:37,483 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 19:13:37,819 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 19:13:39,113 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 19:13:40,282 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 19:13:40,906 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 19:13:41,014 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-01 19:13:41,115 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Full Screen verification success
+2023-05-01 19:13:41,138 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 19:13:41,138 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 19:13:41,139 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 19:13:41,139 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 19:13:41,406 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on AboutUs link
+2023-05-01 19:13:42,013 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Play Video icon on About us page
+2023-05-01 19:13:42,099 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on Full Screen button
+2023-05-01 19:13:42,185 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] user clicks on non full screen button
+2023-05-01 19:13:42,234 [INFO ] com.bac.stepDefinition.AboutUsSteps [main] Video Non Full Screen verification success
+2023-05-01 21:53:07,322 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:53:07,325 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:53:07,327 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:53:07,327 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 21:53:09,237 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 21:53:10,413 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:53:12,011 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:53:12,063 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 706d6934da50644a2fc516fd50dd0e43
+2023-05-01 21:53:12,310 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:53:12,310 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:53:12,310 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:53:12,312 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:53:12,506 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:53:12,540 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 706d6934da50644a2fc516fd50dd0e43
+2023-05-01 21:53:12,800 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:53:12,800 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:53:12,801 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:53:12,801 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:53:12,993 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:53:13,041 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49897}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 706d6934da50644a2fc516fd50dd0e43
+2023-05-01 21:54:17,313 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:54:17,315 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:54:17,317 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:54:17,319 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 21:54:17,725 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 21:54:19,102 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:54:19,942 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:54:19,992 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e05ab5314c742efa1e26203299dd73c6
+2023-05-01 21:54:20,253 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:54:20,253 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:54:20,253 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:54:20,254 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:54:20,487 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:54:20,527 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e05ab5314c742efa1e26203299dd73c6
+2023-05-01 21:54:20,805 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:54:20,806 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:54:20,806 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:54:20,807 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:54:21,028 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:54:21,071 [ERROR] com.bac.stepDefinition.ContactSteps [main] org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=112.0.5615.138)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'BACKYALAKSHMI', ip: '192.168.1.80', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.138, chrome: {chromedriverVersion: 112.0.5615.49 (bd2a7bcb881c..., userDataDir: C:\Users\backy\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49974}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e05ab5314c742efa1e26203299dd73c6
+2023-05-01 21:57:06,346 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:57:06,348 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:57:06,349 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:57:06,350 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 21:57:06,640 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 21:57:07,824 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:57:08,334 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:57:08,542 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-01 21:57:08,589 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-01 21:57:08,666 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-01 21:57:08,707 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-01 21:57:08,714 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-01 21:57:08,716 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-01 21:57:08,716 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-01 21:57:08,718 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-01 21:57:08,746 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:57:08,747 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:57:08,747 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:57:08,748 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:57:08,960 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:57:09,164 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-01 21:57:09,213 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-01 21:57:09,291 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-01 21:57:09,329 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-01 21:57:09,332 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-01 21:57:09,354 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-01 21:57:09,354 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-01 21:57:09,357 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-01 21:57:09,387 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 21:57:09,387 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 21:57:09,387 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 21:57:09,388 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 21:57:09,555 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 21:57:09,776 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact email
+2023-05-01 21:57:09,825 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact name
+2023-05-01 21:57:09,888 [INFO ] com.bac.stepDefinition.ContactSteps [main] user enters contact message
+2023-05-01 21:57:09,931 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on Send Message button
+2023-05-01 21:57:09,933 [INFO ] com.bac.stepDefinition.ContactSteps [main] Alert is Present
+2023-05-01 21:57:09,935 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Message Validation started
+2023-05-01 21:57:09,935 [INFO ] com.bac.utilities.CommonUtils [main] Alert Text Validated successfully Thanks for the message!!
+2023-05-01 21:57:09,936 [INFO ] com.bac.stepDefinition.ContactSteps [main] Accepting the Alert by clicking on Ok button
+2023-05-01 22:07:34,696 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Instantiating Common Utils class
+2023-05-01 22:07:34,698 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Loading the Properties
+2023-05-01 22:07:34,700 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Checking whether Driver is null or not
+2023-05-01 22:07:34,701 [INFO ] com.bac.stepDefinition.CommonStepDefinition [main] Driver is null so Instantiating Driver
+2023-05-01 22:07:35,014 [INFO ] com.bac.webdriver_manager.DriverManager [main] Launching: chrome
+2023-05-01 22:07:36,182 [INFO ] com.bac.stepDefinition.SignUpSteps [main] Launching DemoBlaze URL
+2023-05-01 22:07:37,164 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on contact link
+2023-05-01 22:07:37,350 [INFO ] com.bac.stepDefinition.ContactSteps [main] user clicks on close button in contact page
+2023-05-01 22:07:37,393 [INFO ] com.bac.stepDefinition.ContactSteps [main] Contact page close successful
