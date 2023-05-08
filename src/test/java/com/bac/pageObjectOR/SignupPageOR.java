@@ -24,7 +24,7 @@ public class SignupPageOR {
 	private WebElement password;
 	@FindBy(xpath = "//button[contains(text(),'Sign up')]")
 	private WebElement signUp;
-	@FindBy(xpath = "//button[contains(text(),'Log in')]//preceding::button[4]")
+	@FindBy(xpath = "//button[contains(text(),'Sign up')]//preceding::button[1]")
 	private WebElement close;
 	@FindBy(xpath = "//input[@id='sign-username']//preceding::span[1]")
 	private WebElement closeIcon;

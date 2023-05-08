@@ -34,7 +34,7 @@ public class HomeAfterLoginSteps {
 	@When("verify categories list options")
 	public void verify_categories_list_options() {
 		try {
-
+            //DriverManager.getDriver().navigate().refresh();
 			List<WebElement> options = DriverManager.getDriver().findElements(By.xpath("//a[@id='itemc']"));
 			int optionsCount = options.size();
 			System.out.println("No of Category Options: " + optionsCount);
